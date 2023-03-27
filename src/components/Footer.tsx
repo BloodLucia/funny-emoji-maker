@@ -15,6 +15,24 @@ export const Footer: React.FC = () => {
           by Microsoft. Remixed and partially modified.
         </span>
       </p>
+      <p className='mt-1 text-center text-sm text-neutral-400'>
+        <span className='pr-1'>Made by</span>
+        <a
+          className='text-neutral-400 border-b border-neutral-400 border-dotted
+          hover:text-violet-400'
+          href='https://github.com/xkok'
+          target='_blank'>
+          JinJin
+        </a>
+        <span className='px-1'>|</span>
+        <a
+          className='text-neutral-400 border-b border-neutral-400 border-dotted
+          hover:text-violet-400'
+          href='https://github.com/xkok/funny-emoji-maker'
+          target='_blank'>
+          Source Code
+        </a>
+      </p>
     </footer>
   )
 }
