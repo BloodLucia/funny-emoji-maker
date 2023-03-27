@@ -14,4 +14,4 @@ Assets are from [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) by M
 
 ## Thanks
 
-Thanks to [Diu](https://github.com/ddiu8081/fluent-emoji-maker) for implementing this fun application using `solidjs` ❤️
+Thanks to [Diu](https://github.com/ddiu8081/fluent-emoji-maker) for implementing this fun application using `Solidjs` ❤️
