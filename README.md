@@ -11,3 +11,7 @@ Generate your own Funny Emojis!
 ## Credits
 
 Assets are from [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) by Microsoft. Remixed and partially modified.
+
+## Thanks
+
+Thanks to [Diu](https://github.com/ddiu8081/fluent-emoji-maker) for implementing this fun application using `solidjs` ❤️
