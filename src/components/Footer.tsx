@@ -20,9 +20,9 @@ export const Footer: React.FC = () => {
         <a
           className='text-neutral-400 border-b border-neutral-400 border-dotted
           hover:text-violet-400'
-          href='https://github.com/xkok'
+          href='https://github.com/3lur'
           target='_blank'>
-          JinJin
+          3lur
         </a>
         <span className='px-1'>|</span>
         <a
