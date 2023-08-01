@@ -28,7 +28,7 @@ export const Footer: React.FC = () => {
         <a
           className='text-neutral-400 border-b border-neutral-400 border-dotted
           hover:text-violet-400'
-          href='https://github.com/xkok/funny-emoji-maker'
+          href='https://github.com/3lur/funny-emoji-maker'
           target='_blank'>
           Source Code
         </a>
